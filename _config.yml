@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "정처없이 떠도는 나그네"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "어디 한 곳에 머무는 걸 좋아하지 않고 다양한 경험을 해보고 싶은 사람"
   location         : "Somewhere"
   email            :
   links:

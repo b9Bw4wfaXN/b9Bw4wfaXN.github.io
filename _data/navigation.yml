@@ -1,9 +1,9 @@
 # main links
 main:
     - title: "국내 여행"
-    - url: /categories/국내여행/
+      url: /categories/국내여행/
     - title: "Categories"
-    - url: /categories/
+      url: /categories/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

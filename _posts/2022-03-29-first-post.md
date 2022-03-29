@@ -3,9 +3,10 @@ title:  "github.io 블로그 시작하기"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
-  - Blog
+  - 국내여행
 tags:
-  - Blog
+  - 부산
+  - 해운대
 last_modified_at: 2022-03-29T13:38:00-05:00
 ---
 

@@ -19,6 +19,10 @@ last_modified_at: 2022-03-29T15:26:00-05:00
 
 {% include figure image_path="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FclhZw3%2FbtrxIKKYYEa%2FNKtaRbfY3dyk4ScNyKCOX1%2Fimg.png" alt="구글 지도상 도로 위치 캡처" caption="구글 지도상 도로 위치 캡처" %}
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13049.039643288972!2d128.58185669118555!3d35.150138185139525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356f2c6b57dad351%3A0x450ec34fc8276431!2z7KeA7KSR7ZW0!5e0!3m2!1sko!2skr!4v1648540516548!5m2!1sko!2skr" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.930667985441!2d128.5653580500492!3d35.13340368022907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356f29585cfce839%3A0xd68a51bb9fb1446f!2z6rK97IOB64Ko64-EIOywveybkOyLnCDrp4jsgrDtlantj6zqtawg6rCA7Y-s66GcIDc4OQ!5e0!3m2!1sko!2skr!4v1648540610262!5m2!1sko!2skr" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 {% include figure image_path="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcg3j5N%2FbtrxEEZhYSP%2FNp5e9w3KzJjroQFqnTId0k%2Fimg.jpg" alt="벚꽃과 동백꽃 같이 핀 길 1
 " caption="벚꽃과 동백꽃 같이 핀 길 1
 " %}
@@ -43,3 +47,8 @@ last_modified_at: 2022-03-29T15:26:00-05:00
 {% include figure image_path="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzRJDs%2FbtrxoHh4hRw%2F4aFKwnIjl9l2GTTxmvB510%2Fimg.jpg" alt="벚꽃과 동백꽃 같이 핀 길 2" caption="벚꽃과 동백꽃 같이 핀 길 2" %}
 
 {% include figure image_path="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGtsRJ%2FbtrxAbDmSEl%2FMYeZSuhk6sLFE1IO7lE1A1%2Fimg.jpg" alt="벚꽃과 동백꽃 같이 핀 길 3" caption="벚꽃과 동백꽃 같이 핀 길 3" %}
+
+
+
+
+

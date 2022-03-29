@@ -10,6 +10,8 @@ tags:
 last_modified_at: 2022-03-29T15:26:00-05:00
 ---
 
-![벚꽃 사진](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHdeGm%2FbtrxziIsJ64%2Fy3k3MZ1WcxKjUoI2XLTgb0%2Fimg.jpg "벚꽃 사진 1"){: .align-center}
+{% include figure image_path="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHdeGm%2FbtrxziIsJ64%2Fy3k3MZ1WcxKjUoI2XLTgb0%2Fimg.jpg" alt="벚꽃 사진 1" caption="벚꽃 사진 1"}
 
 오늘 마산에서 바닷가 쪽으로 드라이브 중에 벚꽃과 동백꽃이 같이 가로수처럼 펼쳐지는 도로를 발견하여 소개하고자 합니다. 이 길은 차가 많이 다니지 않아 상대적으로 천천히 꽃구경하는데 좋았습니다. 이 도로는 "지중해까페"라고 부르는 바닷가 쪽 카페와 "덕동 시립테니스장" 사이의 도로였습니다. 오늘 날씨가 많이 따뜻하고 구름은 없고 햇빛 쨍쨍하고 하늘은 맑으며 날도 많이 화창해서인지 지나가는 도로들마다 꽃들이 만개하였습니다. 특히 카페와 테니스장 사이 도로는 벚꽃 바로 아래에 동백꽃이 피었는데 동백꽃이 워낙 빨갛고 해서 장미꽃처럼 보였습니다.
+
+

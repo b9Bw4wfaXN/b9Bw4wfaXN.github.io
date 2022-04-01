@@ -1,7 +1,7 @@
 # main links
 main:
-    - title: "국내 여행"
-      url: /categories/국내여행/
+    - title: "뉴스"
+      url: /categories/news/
     - title: "전체 카테고리"
       url: /categories/
   # - title: "Quick-Start Guide"

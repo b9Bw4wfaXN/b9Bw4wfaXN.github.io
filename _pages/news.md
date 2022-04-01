@@ -1,6 +1,6 @@
 ---
 title: "뉴스"
-permalink: /categories/news/
+permalink: /categories/뉴스/
 layout: category
 author_profile: true
 toc_sticky: true

@@ -1,7 +1,7 @@
 # main links
 main:
     - title: "뉴스"
-      url: /categories/news/
+      url: /categories/뉴스/
     - title: "전체 카테고리"
       url: /categories/
   # - title: "Quick-Start Guide"

@@ -1,5 +1,7 @@
 # main links
 main:
+    - title: "경제"
+      url: /categories/경제/
     - title: "뉴스"
       url: /categories/뉴스/
     - title: "전체 카테고리"

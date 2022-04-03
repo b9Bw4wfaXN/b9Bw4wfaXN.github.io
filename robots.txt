@@ -15,3 +15,5 @@ Allow: /
 
 User-agent: bingbot
 Crawl-delay: 30
+
+Sitemap: https://b9bw4wfaxn.github.io/sitemap.xml
